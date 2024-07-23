@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text with Border</title>
+    <style>
+        /* Tag selector for h1 element */
+        h1 {
+            font-weight: bold; /* Make the text bold */
+            border: 3px solid green; /* Green border with 3px width */
+            padding: 10px; /* Adds padding inside the border */
+            display: inline-block; /* Ensures the border fits around the text */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Guvi</h1>
+</body>
+</html>
